@@ -22,5 +22,8 @@ add_executable(my_end
         Date.h
         Date.cpp
         Disease.cpp
+        PatientHistory.cpp
+        PatientHistory.h
+        Disease.h
         Cat.cpp
         Cat.h)
