@@ -1,7 +1,7 @@
 #include <iostream>
 
 #include "PersonInfo.h"
-#include "PetInfo.h"
+#include "Petinfo.h"
 #include "Pet.h"
 #include "VetClinic.h"
 #include "MedicalCenter.h"
