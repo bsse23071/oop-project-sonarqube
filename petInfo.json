@@ -1,0 +1,102 @@
+{
+  "Diseases": [
+    {
+      "Affected Organs": [
+        "Ears",
+        "Skin"
+      ],
+      "Critical": false,
+      "Description": "Ear mites",
+      "Name": "Mites"
+    },
+    {
+      "Affected Organs": [
+        "Abdomen",
+        "Fur"
+      ],
+      "Critical": false,
+      "Description": "Health issues",
+      "Name": "Un-spayed"
+    },
+    {
+      "Affected Organs": [
+        "Blood",
+        "Skin"
+      ],
+      "Critical": true,
+      "Description": "Seasonal disease",
+      "Name": "Fleas"
+    }
+  ],
+  "Is Dead": true,
+  "Owner": {
+    "Age": 20,
+    "Email": "noor@example.com",
+    "First Name": "Noor",
+    "Last Name": "Rizwan",
+    "Middle Name": "Rizz",
+    "Phone Number": "1234567890"
+  },
+  "Pet": {
+    "Is Bird": false,
+    "Is Mammal": true,
+    "Is Reptile": false
+  },
+  "Pet Age": 1.100000023841858,
+  "Pet Breed": "Persian",
+  "Pet Color": "Fawn",
+  "Pet Gender": "F",
+  "Pet ID": "1",
+  "Pet Name": "Luna"
+}
+{
+  "Diseases": [
+    {
+      "Affected Organs": [
+        "Ears",
+        "Skin"
+      ],
+      "Critical": false,
+      "Description": "Ear mites",
+      "Name": "Mites"
+    },
+    {
+      "Affected Organs": [
+        "Abdomen",
+        "Fur"
+      ],
+      "Critical": false,
+      "Description": "Health issues",
+      "Name": "Un-spayed"
+    },
+    {
+      "Affected Organs": [
+        "Blood",
+        "Skin"
+      ],
+      "Critical": true,
+      "Description": "Seasonal disease",
+      "Name": "Fleas"
+    }
+  ],
+  "Is Dead": true,
+  "Owner": {
+    "Age": 20,
+    "Email": "noor@example.com",
+    "First Name": "Noor",
+    "Last Name": "Rizwan",
+    "Middle Name": "Rizz",
+    "Phone Number": "1234567890"
+  },
+  "Pet": {
+    "Is Bird": false,
+    "Is Mammal": true,
+    "Is Reptile": false
+  },
+  "Pet Age": 1.100000023841858,
+  "Pet Breed": "Persian",
+  "Pet Color": "Fawn",
+  "Pet Gender": "F",
+  "Pet ID": "1",
+  "Pet Name": "Luna"
+}
